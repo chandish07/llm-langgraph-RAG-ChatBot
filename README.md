@@ -1,4 +1,4 @@
-# Government Contract Analysis System
+# TechnoMile's Governer AI
 
 ## Overview
 This system is a sophisticated contract analysis tool that combines vector similarity search with BM25 text ranking to efficiently search and analyze government contract data stored in MongoDB. It uses OpenAI's embeddings and a hybrid retrieval approach for optimal search results.
